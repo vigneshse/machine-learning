@@ -15,7 +15,7 @@ vi ~/.bash_profile
 alias python=python3
 source ~/.bash_profile
 ```
-- ### Verify Python Version (Expected Python 3.7.4)
+- ### Verify Python Version (Expected Python 3.6+)
 ```bash
 python --version
 ```

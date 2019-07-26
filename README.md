@@ -22,12 +22,12 @@ python --version
 
 ## Install ML Py Libs via PIP3 
 
-Pandas: data extraction and preparation
-NumPy: arrays and linear algebra library
-Matplotlib: plotting and data visualization
-Seabor: data visualization library based on matplotlib
-Scikit-learn: best library for classical ML algorithms
-Jupyter Notebook: mixing data, code, and plots in one page
+- *Pandas:* data extraction and preparation
+- *NumPy:* arrays and linear algebra library
+- *Matplotlib:* plotting and data visualization
+- *Seabor:* data visualization library based on matplotlib
+- *Scikit-learn:* best library for classical ML algorithms
+- *Jupyter Notebook:* mixing data, code, and plots in one page
 
 ```bash
 pip3 install numpy

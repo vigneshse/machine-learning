@@ -43,6 +43,12 @@ pip3 install jupyter
 ```bash
 jupyter notebook
 ```
+
 This command will open a web code editor, code inside the green rectangle and evaluate Python code interactively.
+
+## Kaggle CLI
+```bash
+pip3 install kaggle --upgrade
+```
 
 
